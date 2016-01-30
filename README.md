@@ -1,6 +1,5 @@
 ### fluffy-octo-guacamole
 * First repo for the dojo!
-  * [ link ]()
   * [ wiki ](https://github.com/bellcodo/fluffy-octo-guacamole/wiki)
 
 ### ubiquitous-octo-bassoon
