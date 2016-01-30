@@ -4,9 +4,7 @@
   * [ wiki ](https://github.com/bellcodo/fluffy-octo-guacamole/wiki)
 
 ### ubiquitous-octo-bassoon
-* Example repo during first dojo.
-  * [ link ](https://github.com/bellcodo/ubiquitous-octo-bassoon)
-  * [ wiki ](https://github.com/bellcodo/ubiquitous-octo-bassoon/wiki)
+* Stub
 
 ### potential-octo-chainsaw
 * `activity_picker` module using random and urllib2.
