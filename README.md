@@ -1,3 +1,19 @@
+### fluffy-octo-guacamole
+* First repo for the dojo!
+  * [ link ]()
+  * [ wiki ](https://github.com/bellcodo/fluffy-octo-guacamole/wiki)
+
+### ubiquitous-octo-bassoon
+* Example repo during first dojo.
+  * [ link ](https://github.com/bellcodo/ubiquitous-octo-bassoon)
+  * [ wiki ](https://github.com/bellcodo/ubiquitous-octo-bassoon/wiki)
+
+### potential-octo-chainsaw
+* `activity_picker` module using random and urllib2.
+  * [ link ](https://github.com/bellcodo/potential-octo-chainsaw)
+  * [ wiki ](https://github.com/bellcodo/potential-octo-chainsaw/wiki)
+
+
 # Charles Babbage and the Difference Engine
 * ![Image of Charles Babbage on banner](https://raw.githubusercontent.com/bellcodo/fluffy-octo-guacamole/master/resources/images/15547212342_8b3b64336b_b.jpg)
 
