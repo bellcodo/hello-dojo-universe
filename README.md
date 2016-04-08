@@ -4,7 +4,7 @@
 
 ### potential-octo-chainsaw
 * `activity_picker` module using random and urllib2.
-  * [ link ]../../../potential-octo-chainsaw)
+  * [ link ](../../../potential-octo-chainsaw)
   * [ wiki ](../../../potential-octo-chainsaw/wiki)
 
 ### supreme-system
