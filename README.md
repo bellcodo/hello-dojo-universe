@@ -1,6 +1,6 @@
 ### fluffy-octo-guacamole
 * First repo for the dojo!
-  * [ wiki ](../fluffy-octo-guacamole/wiki)
+  * [ wiki ](../../../fluffy-octo-guacamole/wiki)
 
 ### potential-octo-chainsaw
 * `activity_picker` module using random and urllib2.
