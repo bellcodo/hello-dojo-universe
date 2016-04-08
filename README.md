@@ -1,5 +1,6 @@
 ### fluffy-octo-guacamole
 * First repo for the dojo!
+  * [ link ](../../../fluffy-octo-guacamole)
   * [ wiki ](../../../fluffy-octo-guacamole/wiki)
 
 ### potential-octo-chainsaw
