@@ -11,7 +11,7 @@
   * [ wiki ](https://github.com/bellcodo/potential-octo-chainsaw/wiki)
 
 ### supreme-system
-* Building a webapp!
+* Building a webapp! Using heroku and deploy pipeline.
   * [ link ](https://github.com/bellcodo/supreme-system)
   * [ wiki ](https://github.com/bellcodo/supreme-system/wiki)
 
