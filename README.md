@@ -13,6 +13,10 @@
   * [ link ](../../../supreme-system)
   * [ wiki ](../../../supreme-system/wiki)
 
+### laughing-meme
+* `typing picker` moduel usign random and urllib2.
+  * [ link ](../../../laughing-meme)
+  * [ wiki ](../../../laughing-meme/wiki)
 
 
 # Charles Babbage and the Difference Engine
