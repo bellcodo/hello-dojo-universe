@@ -4,13 +4,13 @@
 
 ### potential-octo-chainsaw
 * `activity_picker` module using random and urllib2.
-  * [ link ](https://github.com/bellcodo/potential-octo-chainsaw)
-  * [ wiki ](https://github.com/bellcodo/potential-octo-chainsaw/wiki)
+  * [ link ]../../../potential-octo-chainsaw)
+  * [ wiki ](../../../potential-octo-chainsaw/wiki)
 
 ### supreme-system
 * Building a webapp! Using heroku and deploy pipeline.
-  * [ link ](https://github.com/bellcodo/supreme-system)
-  * [ wiki ](https://github.com/bellcodo/supreme-system/wiki)
+  * [ link ](../../../supreme-system)
+  * [ wiki ](../../../supreme-system/wiki)
 
 
 
