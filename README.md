@@ -1,4 +1,5 @@
 # Welcome!
+*QuickStart Link* [Outline](dojo_outline.md)
 
 ### For the parents
 > CoderDojo is a joint effort between [ Expedia Inc. ] (http://www.expediainc.com/about/mission-vision-values/), [ CoderDojo ] (https://coderdojo.com/about/), and UW Tacoma's Programming club [ HusCII ] (https://dawgden.tacoma.uw.edu/organization/HuSCII). With the help from Expedia employees and UW Tacoma Students, we are striving to build a perminent space for young programmers to gather, learn from eachother, and build programming skills.
