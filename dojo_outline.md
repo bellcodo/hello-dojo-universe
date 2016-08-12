@@ -1,5 +1,7 @@
 # Outline
 * Arrive
+* Introductions
+* Pair up
 * Get on the Internet
 * typingio
 * Create email accounts
@@ -7,7 +9,6 @@
 * Create github accounts
 * Create first git repo
 * Save the entry paragraph in git
-* Pair up
 * Use git social to follow each other
 * Create codecombat accounts
 * Start a level in python on one machine
