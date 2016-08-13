@@ -5,7 +5,7 @@
 * Get on the Internet
 * typingio
 * Create email accounts
-* Use codeskulptot to write entry paragraph
+* Use codeskulptor.org to write entry paragraph
 * Create github accounts
 * Create first git repo
 * Save the entry paragraph in git
